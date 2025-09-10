@@ -7,7 +7,7 @@ The script:
 
 Downloads AA.exe and settings3.bin from the repository.
 
-Creates an installation folder (for example, C:\Program Files\AmmyAdmin).
+Creates an installation folder (check C:\Program Files\Ammy).
 
 Places the configuration to work only on the local network
 
