@@ -11,9 +11,9 @@ Creates an installation folder (check C:\Program Files\Ammy).
 
 Places the configuration to work only on the local network
 
-Using:
+**Using:**
 
-Download the install_ammy.bat script.
+Download the installer.bat script.
 
 Run it with administrator rights.
 
